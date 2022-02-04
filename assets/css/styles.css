@@ -507,27 +507,27 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__laravel{
-    width: 80%;
+.skills__Postman{
+    width: 75%;
 }
 
-.skills__django{
+.skills__JMeter{
     width: 60%;
 }
 
-.skills__php{
+.skills__ApiREST{
+    width: 40%;
+}
+
+.skills__Microservices{
+    width: 20%;
+}
+
+.skills__RobotFramework{
     width: 80%;
 }
 
-.skills__typescript{
-    width: 70%;
-}
-
-.skills__react{
-    width: 70%;
-}
-
-.skills__material{
+.skills__CYpress{
     width: 60%;
 }
 
@@ -535,15 +535,15 @@ img{
     width: 80%;
 }
 
-.skills__formik{
+.skills__Selenium{
     width: 60%;
 }
 
-.skills__mysql{
+.skills__GitLab{
     width: 80%;
 }
 
-.skills__graphql{
+.skills__Bitbucket{
     width: 70%;
 }
 
