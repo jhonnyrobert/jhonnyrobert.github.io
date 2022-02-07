@@ -1,9 +1,9 @@
 hapvida:
-- Developed and executed testing scenarios and exploratory testing; 
-- Executed user acceptance testing;
-- Executed smoke and regression testing;
-- Using Git and Bitbucket to manage code
-- Software testing management using RobotFramework and Python.
+Developed and executed testing scenarios and exploratory testing; 
+Executed user acceptance testing;
+Executed smoke and regression testing;
+Using Git and Bitbucket to manage code;
+Software testing management using RobotFramework and Python.
 
 Gazin
 - Developed and executed testing scenarios and exploratory testing;
