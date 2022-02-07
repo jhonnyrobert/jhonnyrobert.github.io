@@ -1,3 +1,22 @@
+hapvida:
+- Developed and executed testing scenarios and exploratory testing; 
+- Executed user acceptance testing;
+- Executed smoke and regression testing;
+- Using Git and Bitbucket to manage code
+- Software testing management using RobotFramework and Python.
+
+Gazin
+- Developed and executed testing scenarios and exploratory testing;
+- Used Cypress with JUnit with Page Objects/Factory (Patterns) for web automation 
+- Using Git and Gitlab to manage code
+- Scrum (Agile methodology)
+- Developed and executed unit, integration and web testing;
+- Risk-based testing and test management using Jira.
+
+<br> Methodologies:
+Scrum and ITIL
+<br>Tools:
+Jira, VScode, Java Script, JUnit, Isominia.
 
 
 January – Janeiro
